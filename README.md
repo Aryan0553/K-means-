@@ -40,4 +40,3 @@ Synthetic and structured datasets with features such as CGPA and IQ were used fo
 
 
 
-
