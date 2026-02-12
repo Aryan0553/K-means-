@@ -13,6 +13,7 @@ Elbow Method for optimal K selection
 Euclidean distance for centroid calculation
 ---
 
+
 ## 🛠 Tech Stack
 Python
 Pandas
