@@ -37,4 +37,3 @@ and K-Means successfully grouped data into meaningful segments with clear visual
 
 ## 📁 Dataset
 Synthetic and structured datasets with features such as CGPA and IQ were used for clustering analysis.
-
